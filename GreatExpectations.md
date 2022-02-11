@@ -29,7 +29,7 @@ Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone 
 
 With Great Expectations, you can assert what you expect from the data you load and transform, and catch data issues quickly <br>
 *Expectations are basically unit tests for your data.*<br>
-Not only that, but Great Expectations also creates data documentation and data quality reports from those Expectations.
+Not only that, but Great Expectations also creates data documentation and data quality reports from those Expectations.<br>
 *Data science and data engineering teams use Great Expectations to:*<br>
 -Test data they ingest from other teams or vendors and ensure its validity. <br>
 -Validate data they transform as a step in their data pipeline in order to ensure the correctness of transformations.<br>
