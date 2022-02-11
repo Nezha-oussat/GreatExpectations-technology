@@ -2,13 +2,11 @@
 _______________________________________________________________________________________________________________________________________________________
 
 ## Description
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations is a shared, open standard for data quality. 
 It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 
 ## General informations
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests.<br> 
 Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time).
@@ -25,7 +23,6 @@ Abe Gong is a core contributor to the Great Expectations open source library, an
 Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone data science team, and lead data scientist at Massive Health.
 
 ## Main capabilities
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 With Great Expectations, you can assert what you expect from the data you load and transform, and catch data issues quickly <br>
 *Expectations are basically unit tests for your data.*<br>
@@ -36,7 +33,6 @@ Not only that, but Great Expectations also creates data documentation and data q
 -Prevent data quality issues from slipping into data products. 
 
 ## Available connectors/integrations
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations works with the tools and systems that you're already using with your data, including:
 
@@ -66,7 +62,7 @@ Great Expectations works with the tools and systems that you're already using wi
 
 
 ## ways to deploy Great_Expectations
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 #### Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
 These steps are basically following the Deploying Great Expectations with Airflow documentation with some items specific to Google Cloud Composer.
 # Steps
