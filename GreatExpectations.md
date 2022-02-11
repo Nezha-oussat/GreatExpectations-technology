@@ -1,13 +1,13 @@
-### Great_Expectations
+## Great_Expectations
 _______________________________________________________________________________________________________________________________________________________
 
-### Description
+## Description
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations is a shared, open standard for data quality. 
 It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 
-### General informations
+## General informations
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests.<br> 
@@ -24,7 +24,7 @@ this technology is under active development by James Campbell, Abe Gong, Eugene 
 Abe Gong is a core contributor to the Great Expectations open source library, and CEO and Co-founder at Superconductive.  Prior to Superconductive, <br>
 Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone data science team, and lead data scientist at Massive Health.
 
-### Main capabilities
+## Main capabilities
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 With Great Expectations, you can assert what you expect from the data you load and transform, and catch data issues quickly <br>
@@ -35,7 +35,7 @@ Not only that, but Great Expectations also creates data documentation and data q
 -Validate data they transform as a step in their data pipeline in order to ensure the correctness of transformations.<br>
 -Prevent data quality issues from slipping into data products. 
 
-### Available connectors/integrations
+## Available connectors/integrations
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations works with the tools and systems that you're already using with your data, including:
@@ -65,9 +65,9 @@ Great Expectations works with the tools and systems that you're already using wi
 </table>
 
 
-### ways to deploy Great_Expectations
+## ways to deploy Great_Expectations
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-## Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
+#### Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
 These steps are basically following the Deploying Great Expectations with Airflow documentation with some items specific to Google Cloud Composer.
 # Steps
 *1-Set up your Composer environment*<br>
@@ -76,5 +76,3 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *4-Create a DAG with Validations*<br>
 *5-Upload your Expectations and DAG*<br>
 *6-Monitor your deployment*<br>
-You can store your Expectations anywhere that is accessible to the Cloud Composer environment,<br> 
-One simple pattern is to use a folder in the bucket provided by the Composer environment.
