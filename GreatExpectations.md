@@ -10,7 +10,7 @@ It helps data teams eliminate pipeline debt, through data testing, documentation
 
 Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests.<br> 
 Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time).
-Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.
+Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.<br> 
 the website of great expectations technology is https://greatexpectations.io/case-studies/  <br>
 Great Expectations has 4 repositories available such as https://github.com/great-expectations/great_expectations <br>
 *Great Expectations is both a community and an open source project.*<br>
@@ -72,3 +72,9 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *4-Create a DAG with Validations*<br>
 *5-Upload your Expectations and DAG*<br>
 *6-Monitor your deployment*<br>
+#### Deploying Great Expectations with Astronomer
+# Steps
+*1-Set the DataContext root directory*<br>
+*2-Set the environment variables for credentials*<br>
+
+
