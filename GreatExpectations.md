@@ -65,7 +65,7 @@ Great Expectations works with the tools and systems that you're already using wi
 
 #### Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
 These steps are basically following the Deploying Great Expectations with Airflow documentation with some items specific to Google Cloud Composer.
-# Steps
+###### Steps
 *1-Set up your Composer environment*<br>
 *2-Create Expectations*<br>
 *3-Create your Data Context*<br>
@@ -73,7 +73,7 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *5-Upload your Expectations and DAG*<br>
 *6-Monitor your deployment*<br>
 #### Deploying Great Expectations with Astronomer
-# Steps
+####### Steps
 *1-Set the DataContext root directory*<br>
 *2-Set the environment variables for credentials*<br>
 
