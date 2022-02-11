@@ -73,7 +73,7 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *5-Upload your Expectations and DAG*<br>
 *6-Monitor your deployment*<br>
 #### Deploying Great Expectations with Astronomer
-####### Steps
+###### Steps
 *1-Set the DataContext root directory*<br>
 *2-Set the environment variables for credentials*<br>
 
