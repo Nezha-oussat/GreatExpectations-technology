@@ -2,7 +2,7 @@
 _______________________________________________________________________________________________________________________________________________________
 
 ### Description
-*****************************************************************
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Great Expectations is a shared, open standard for data quality. 
 It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
