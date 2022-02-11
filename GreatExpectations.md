@@ -19,7 +19,7 @@ Great Expectations has 4 repositories available such as https://github.com/great
 -The community is an inclusive space for data practitioners who want to improve data collaboration, with data quality as an integral component of that discussion.<br>
 -The project provides a shared, open standard for data quality, expressed in software.<br>
 -They strive for positive impact for individuals, for teams and companies, and for the whole data ecosystem.<br>
-to learn more about this technology the community had a youtube channel https://www.youtube.com/c/GreatExpectationsData/videos<br>
+To learn more about this technology the community had a youtube channel https://www.youtube.com/c/GreatExpectationsData/videos <br>
 this technology is under active development by James Campbell, Abe Gong, Eugene Mandel, Rob Lim, Taylor Miller, with help from many others.<br>
 Abe Gong is a core contributor to the Great Expectations open source library, and CEO and Co-founder at Superconductive.  Prior to Superconductive, <br>
 Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone data science team, and lead data scientist at Massive Health.
@@ -63,5 +63,6 @@ Great Expectations works with the tools and systems that you're already using wi
 		<tr><td style="text-align: center; height=40px;"><img height="40" src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-5guop3/Slack_RGB.png" />            </td><td style="width: 200px;">Slack                    </td><td> Get automatic data quality notifications!</td></tr>
 	</tbody>
 </table>
+
 
 
