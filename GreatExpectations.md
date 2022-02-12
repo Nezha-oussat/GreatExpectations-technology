@@ -134,10 +134,10 @@ These steps are basically following the Deploying Great Expectations with Airflo
 
 ## Raodmap
 After a hiatus of a few months, Great Expectations Community Roadmap Meeting 🕒 Tuesday, June 22n will focus on the roadmap for open source Great Expectations. 
-they looking forward to input from the whole community. 
-this Roadmap include:
-            -Promote the V3 API (BatchRequest) to primary (done)
-            -Improve Docs,esp,onbording and core skills/Concepts
-            -StreamLine ecosystem partnership + eployment patterns
-            -Release V3 docs for customs Expectations
+they looking forward to input from the whole community. <br> 
+This Roadmap include:<br> 
+            -Promote the V3 API (BatchRequest) to primary (done)<br> 
+            -Improve Docs,esp,onbording and core skills/Concepts<br> 
+            -StreamLine ecosystem partnership + eployment patterns<br> 
+            -Release V3 docs for customs Expectations<br> 
             -Launch and iterate on Expectations Gallery
