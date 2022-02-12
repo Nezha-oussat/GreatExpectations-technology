@@ -11,31 +11,41 @@ It helps data teams eliminate pipeline debt, through data testing, documentation
 
 ## General informations
 
-Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests.<br> 
-Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time).
-Pipeline tests are like unit tests for datasets: they help you guard against upstream data changes and monitor data quality.<br><br> 
+Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing:<br>
+- Pipeline tests are applied to data (instead of code) and at batch time (instead of compile or deploy time).
+Pipeline tests are like unit tests for datasets: <br>
+- They help you guard against upstream data changes and monitor data quality.<br> 
+
 ##### The website of great expectations technology : 
                         https://greatexpectations.io/case-studies/  
 ##### Great Expectations has 4 repositories available such as : 
                         https://github.com/great-expectations/great_expectations 
 			
 *Great Expectations is both a community and an open source project.*<br>
+
 -The community is an inclusive space for data practitioners who want to improve data collaboration, with data quality as an integral component of that discussion.<br>
 -The project provides a shared, open standard for data quality, expressed in software.<br>
 -They strive for positive impact for individuals, for teams and companies, and for the whole data ecosystem.<br>
+
 ##### To learn more about this technology the community had a youtube channel :
                         https://www.youtube.com/c/GreatExpectationsData/videos 
 			
-this technology is under active development by James Campbell, Abe Gong, Eugene Mandel, Rob Lim, Taylor Miller, with help from many others.<br>
-Abe Gong is a core contributor to the Great Expectations open source library, and CEO and Co-founder at Superconductive.  Prior to Superconductive, <br>
+This technology is under active development by James Campbell, Abe Gong, Eugene Mandel, Rob Lim, Taylor Miller, with help from many others.<br>
+
+Abe Gong : is a core contributor to the Great Expectations open source library, and CEO and Co-founder at Superconductive.  
+ <br>
 Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone data science team, and lead data scientist at Massive Health.
 
 ## Main capabilities
 
 With Great Expectations, you can assert what you expect from the data you load and transform, and catch data issues quickly <br>
+
 *Expectations are basically unit tests for your data.*<br>
+
 Not only that, but Great Expectations also creates data documentation and data quality reports from those Expectations.<br>
+
 *Data science and data engineering teams use Great Expectations to:*<br>
+
 -Test data they ingest from other teams or vendors and ensure its validity. <br>
 -Validate data they transform as a step in their data pipeline in order to ensure the correctness of transformations.<br>
 -Prevent data quality issues from slipping into data products. 
@@ -88,8 +98,10 @@ great_expectations init
 
 
 #### Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
+
 These steps are basically following the Deploying Great Expectations with Airflow documentation with some items specific to Google Cloud Composer.
 ###### Steps
+
 *1-Set up your Composer environment*<br>
 *2-Create Expectations*<br>
 *3-Create your Data Context*<br>
@@ -97,7 +109,9 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *5-Upload your Expectations and DAG*<br>
 *6-Monitor your deployment*<br>
 #### Deploying Great Expectations with Astronomer
+
 ###### Steps
+
 *1-Set the DataContext root directory*<br>
 *2-Set the environment variables for credentials*<br>
 
