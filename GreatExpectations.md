@@ -116,7 +116,7 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *2-Set the environment variables for credentials*<br>
 
 ## Reviews
-####  ![image](https://user-images.githubusercontent.com/98338535/153729988-0c931e56-9e42-41c1-9e55-e96ad361c948.png) Good Reviews
+####  ![image size=0.1](https://user-images.githubusercontent.com/98338535/153729988-0c931e56-9e42-41c1-9e55-e96ad361c948.png) Good Reviews
 
 
 
