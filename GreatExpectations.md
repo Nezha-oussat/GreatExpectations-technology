@@ -116,7 +116,19 @@ These steps are basically following the Deploying Great Expectations with Airflo
 *2-Set the environment variables for credentials*<br>
 
 ## Reviews
-####  ![image size=0.1](https://user-images.githubusercontent.com/98338535/153729988-0c931e56-9e42-41c1-9e55-e96ad361c948.png) Good Reviews
+#### Good Reviews
 
+*Great Expectations is a fast growing tool allowing comprehensive use to ensure data quality for the operation of a machine-learning model. The tool has been developed with special importance attached to providing the most generic possible framework and offering users many interfaces which allow them to adapt Great Expectations to their own project and extend it according to their own needs.*
 
+*is an action operator which can automatically generate slack notification after validation. This and other templates can be used to design interfaces to other systems.*
+
+*there is a great need to take data quality testing into the world of modern data sources and development approaches with the help of a modern tool.*
+
+#### Bad Reviews
+
+*Great Expectations is not a pipeline execution framework.*
+
+*Great Expectations is not a data versioning tool.*
+
+*Great Expectations currently works best in a python/bash environment.*
 
