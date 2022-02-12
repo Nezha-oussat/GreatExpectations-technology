@@ -23,7 +23,9 @@ Pipeline tests are like unit tests for datasets: they help you guard against ups
 -The community is an inclusive space for data practitioners who want to improve data collaboration, with data quality as an integral component of that discussion.<br>
 -The project provides a shared, open standard for data quality, expressed in software.<br>
 -They strive for positive impact for individuals, for teams and companies, and for the whole data ecosystem.<br>
-To learn more about this technology the community had a youtube channel https://www.youtube.com/c/GreatExpectationsData/videos <br>
+##### To learn more about this technology the community had a youtube channel :
+                        https://www.youtube.com/c/GreatExpectationsData/videos <br>
+			
 this technology is under active development by James Campbell, Abe Gong, Eugene Mandel, Rob Lim, Taylor Miller, with help from many others.<br>
 Abe Gong is a core contributor to the Great Expectations open source library, and CEO and Co-founder at Superconductive.  Prior to Superconductive, <br>
 Abe was Chief Data Officer at Aspire Health, the founding member of the Jawbone data science team, and lead data scientist at Massive Health.
