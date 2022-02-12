@@ -64,6 +64,22 @@ Great Expectations works with the tools and systems that you're already using wi
 
 
 ## ways to deploy Great_Expectations
+To see Great Expectations in action on your own data:
+
+You can install it using pip
+```
+pip install great_expectations
+```
+or conda
+```
+conda install -c conda-forge great-expectations
+```
+and then run
+
+```
+great_expectations init
+```
+
 
 #### Deploying Great Expectations with Google Cloud Composer (Hosted Airflow)
 These steps are basically following the Deploying Great Expectations with Airflow documentation with some items specific to Google Cloud Composer.
