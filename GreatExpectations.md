@@ -138,8 +138,8 @@ they looking forward to input from the whole community. <br>
 
 This Roadmap include:<br> 
 
-            -Promote the V3 API (BatchRequest) to primary (done)<br> 
-            -Improve Docs,esp,onbording and core skills/Concepts<br> 
-            -StreamLine ecosystem partnership + eployment patterns<br> 
-            -Release V3 docs for customs Expectations<br> 
+            -Promote the V3 API (BatchRequest) to primary (done)
+            -Improve Docs,esp,onbording and core skills/Concepts
+            -StreamLine ecosystem partnership + eployment patterns
+            -Release V3 docs for customs Expectations 
             -Launch and iterate on Expectations Gallery
