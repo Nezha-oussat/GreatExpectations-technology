@@ -23,9 +23,9 @@ Pipeline tests are like unit tests for datasets: <br>
 			
 *Great Expectations is both a community and an open source project.*<br>
 
--The community is an inclusive space for data practitioners who want to improve data collaboration, with data quality as an integral component of that discussion.<br>
--The project provides a shared, open standard for data quality, expressed in software.<br>
--They strive for positive impact for individuals, for teams and companies, and for the whole data ecosystem.<br>
+- The community is an inclusive space for data practitioners who want to improve data collaboration, with data quality as an integral component of that discussion.<br>
+- The project provides a shared, open standard for data quality, expressed in software.<br>
+- They strive for positive impact for individuals, for teams and companies, and for the whole data ecosystem.<br>
 
 ##### To learn more about this technology the community had a youtube channel :
                         https://www.youtube.com/c/GreatExpectationsData/videos 
@@ -46,9 +46,9 @@ Not only that, but Great Expectations also creates data documentation and data q
 
 *Data science and data engineering teams use Great Expectations to:*<br>
 
--Test data they ingest from other teams or vendors and ensure its validity. <br>
--Validate data they transform as a step in their data pipeline in order to ensure the correctness of transformations.<br>
--Prevent data quality issues from slipping into data products. 
+- Test data they ingest from other teams or vendors and ensure its validity. <br>
+- Validate data they transform as a step in their data pipeline in order to ensure the correctness of transformations.<br>
+- Prevent data quality issues from slipping into data products. 
 
 ## Available connectors/integrations
 
@@ -82,16 +82,15 @@ Great Expectations works with the tools and systems that you're already using wi
 ## ways to deploy Great_Expectations
 To see Great Expectations in action on your own data:
 
-You can install it using pip
+- You can install it using pip
 ```
 pip install great_expectations
 ```
-or conda
+- or conda
 ```
 conda install -c conda-forge great-expectations
 ```
-and then run
-
+- and then run
 ```
 great_expectations init
 ```
@@ -138,8 +137,8 @@ they looking forward to input from the whole community. <br>
 
 This Roadmap include:<br> 
 
-            -Promote the V3 API (BatchRequest) to primary (done)
-            -Improve Docs,esp,onbording and core skills/Concepts
-            -StreamLine ecosystem partnership + eployment patterns
-            -Release V3 docs for customs Expectations 
-            -Launch and iterate on Expectations Gallery
+            - Promote the V3 API (BatchRequest) to primary (done)
+            - Improve Docs,esp,onboarding and core skills/Concepts
+            - StreamLine ecosystem partnership + eployment patterns
+            - Release V3 docs for customs Expectations 
+            - Launch and iterate on Expectations Gallery
